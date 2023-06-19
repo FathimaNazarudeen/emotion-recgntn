@@ -1,1 +1,1 @@
-# emotion-recgntn
+# Emotion recognition from speech
